@@ -1,7 +1,2 @@
-{
-    "allowed_keys": [
-        "key123",
-        "user456",
-        "access789"
-    ]
-}
+"key123",
+"key456"
