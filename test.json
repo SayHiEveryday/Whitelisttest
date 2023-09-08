@@ -1,3 +1,7 @@
-"ABC",
-"DDC",
-"WWE"
+{
+    "allowed_keys": [
+        "key123",
+        "user456",
+        "access789"
+    ]
+}
